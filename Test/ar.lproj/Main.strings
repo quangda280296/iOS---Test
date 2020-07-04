@@ -1,0 +1,18 @@
+
+/* Class = "UINavigationItem"; title = "Your Meals"; ObjectID = "CEv-qI-Q6r"; */
+"CEv-qI-Q6r.title" = "Your Meals";
+
+/* Class = "UITextField"; placeholder = "Enter meal name"; ObjectID = "YIl-0q-5W4"; */
+"YIl-0q-5W4.placeholder" = "Enter meal name";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ZXZ-WH-zoV"; */
+"ZXZ-WH-zoV.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "New Meal"; ObjectID = "dlO-R0-Dsm"; */
+"dlO-R0-Dsm.title" = "New Meal";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gJv-9K-CXi"; */
+"gJv-9K-CXi.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Set Default Label Text"; ObjectID = "odQ-nT-NJd"; */
+"odQ-nT-NJd.normalTitle" = "Set Default Label Text";
